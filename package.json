@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "name": "english-tagalog-translator",
+=======
+  "name": "quiz-app",
+>>>>>>> a6371d433483dce19a46dfdf6ea84758e9280dee
   "version": "0.1.0",
   "private": true,
   "dependencies": {
